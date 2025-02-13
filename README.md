@@ -7,10 +7,10 @@ This genius project transforms the classic C syntax to better suit the needs of 
 
 ### SuomiC compared to C
 
-C syntac
+C syntax
 ```c
 int main(int argc, char* argv[]) {
-	return 0;
+  return 0;
 }
 ```
 
@@ -19,6 +19,6 @@ SuomiC syntax (genius)
 #include "lang.h"
 
 kokonaisluku ensisijainen(kokonaisluku argc, kirjain osoitin argv[]) {
-	palauta 0 loppus
+  palauta 0 loppus
 }
 ```
